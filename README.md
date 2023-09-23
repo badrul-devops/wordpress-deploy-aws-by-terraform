@@ -1,2 +1,3 @@
 # terraform-project
-![Alt text](<Images/Screenshot 2023-09-23 at 9.00.26 PM (2).png>) ![Alt text](<Images/Screenshot 2023-09-23 at 9.00.26 PM.png>) ![Alt text](<Images/Screenshot 2023-09-23 at 9.01.00 PM (2).png>) ![Alt text](<Images/Screenshot 2023-09-23 at 9.01.00 PM.png>) ![Alt text](<Images/Screenshot 2023-09-23 at 9.25.18 PM.png>) ![Alt text](<Images/Screenshot 2023-09-23 at 9.33.04 PM (2).png>) ![Alt text](<Images/Screenshot 2023-09-23 at 9.33.36 PM (2).png>) ![Alt text](<Images/Screenshot 2023-09-23 at 9.34.40 PM (2).png>) ![Alt text](<Images/Screenshot 2023-09-23 at 9.38.30 PM.png>) ![Alt text](<Images/Screenshot 2023-09-23 at 9.42.15 PM.png>)
+
+![Alt text](Images/1.png) ![Alt text](Images/2.png) ![Alt text](Images/3.png) ![Alt text](Images/4.png) ![Alt text](Images/5.png) ![Alt text](Images/6.png) ![Alt text](Images/7.png) ![Alt text](Images/8.png) ![Alt text](Images/9.png)
