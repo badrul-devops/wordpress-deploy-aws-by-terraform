@@ -1,0 +1,17 @@
+version: "3.1"
+
+services:
+  wordpress:
+    image: wordpress:latest
+    ports:
+      - "80:80"
+    environment:
+      WORDPRESS_DB_HOST: my-rds-instance.***************.us-east-1.rds.amazonaws.com
+      WORDPRESS_DB_USER: badrul
+      WORDPRESS_DB_PASSWORD: badrul123
+      WORDPRESS_DB_NAME: wordpress_db
+    volumes:
+      - wordpress_data:/var/www/html
+
+volumes:
+  wordpress_data:
